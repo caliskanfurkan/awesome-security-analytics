@@ -19,6 +19,7 @@ Source|Description
 [MITRE ATT&CK](https://attack.mitre.org/wiki/Main_Page)|MITRE ATT&CK database that consists of actors TTPs
 [CAR](https://car.mitre.org)|MITRE Cyber Analytics Repository
 [Unfetter](https://mitre.github.io/unfetter/)|Unfetter is a project designed to help network defenders, cyber security professionals, and decision makers identify and analyze defensive gaps in a more scalable and repeatable way
+[Sigma](https://github.com/Neo23x0/sigma)|The main purpose of this project is to provide a structured form in which researchers or analysts can describe their once developed detection methods and make them shareable with others.
 
 
 ## Advesary Emulation Tools
