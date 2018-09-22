@@ -14,7 +14,7 @@ Tool Name|Description
 
 ## Detection Content
 
-Source Name|Description
+Source|Description
 -----------|---------
 [MITRE ATT&CK](https://attack.mitre.org/wiki/Main_Page)|MITRE ATT&CK database that consists of actors TTPs
 [CAR](https://car.mitre.org)|MITRE Cyber Analytics Repository
@@ -22,7 +22,7 @@ Source Name|Description
 
 
 ## Advesary Emulation Tools
-Tool Name|Description
+Tool|Description
 ---------|---------
 [Caldera](https://github.com/mitre/caldera)|CALDERA is an automated adversary emulation system that performs post-compromise adversarial behavior within Windows Enterprise networks.
 [Atomic Red Team](http://atomicredteam.io)|Atomic Red Team tests are small, highly portable detection tests mapped to the MITRE ATT&CK Framework. Each test is designed to map back to a particular tactic. 
