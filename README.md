@@ -2,8 +2,11 @@
 
 A repo for security analytics &amp; threat hunting resources
 
-https://github.com/Cyb3rWard0g/HELK
+Tools
+Threat hunting ELK: https://github.com/Cyb3rWard0g/HELK
+SysmonSearch: https://github.com/JPCERTCC/SysmonSearch
 
-https://attack.mitre.org/wiki/Main_Page
+Content
+MITRE ATT&CKhttps://attack.mitre.org/wiki/Main_Page
 
-https://github.com/JPCERTCC/SysmonSearch
+
