@@ -19,8 +19,6 @@ Source Name|Reference
 
 ## Videos
 
-Name|Reference
-----|---------
 [ATT&CKing the Status Quo: Improving Threat Intel and Cyber Defense with MITRE ATT&CK]
 (https://www.youtube.com/watch?v=p7Hyd7d9k-c)
 
