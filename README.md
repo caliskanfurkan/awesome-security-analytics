@@ -29,6 +29,7 @@ Tool|Description
 [Atomic Red Team](http://atomicredteam.io)|Atomic Red Team tests are small, highly portable detection tests mapped to the MITRE ATT&CK Framework. Each test is designed to map back to a particular tactic. 
 [Metta](https://github.com/uber-common/metta)|An information security preparedness tool to do adversarial simulation.
 [APT Simulator](https://github.com/NextronSystems/APTSimulator)|A toolset to make a system look as if it was the victim of an APT attack 
+[Bookish Happiness](https://github.com/MHaggis/bookish-happiness)
 
 ## Books
 [Crafting the InfoSec Playbook: Security Monitoring and Incident Response Master Plan](https://www.amazon.com/Crafting-InfoSec-Playbook-Security-Monitoring/dp/1491949406)
